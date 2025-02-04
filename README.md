@@ -12,7 +12,8 @@ Paper: [Learning Structured Output Representation using Deep Conditional Generat
 ](https://papers.nips.cc/paper_files/paper/2015/hash/8d55a249e6baa5c06772297520da2051-Abstract.html)
 
 ![cVAE_1](https://github.com/canmike/sar2rgb/blob/3b152050ee07ad1278d206fff3f5de06649c924e/figures/cVAE_1.png)
-[cVAE_v2_img128_ldim2048_b0.25.ipynb](https://github.com/canmike/sar2rgb/blob/main/notebooks/cVAE_v2_img128_ldim2048_b0.25.ipynb)
+
+Notebook: [cVAE_v2_img128_ldim2048_b0.25.ipynb](https://github.com/canmike/sar2rgb/blob/main/notebooks/cVAE_v2_img128_ldim2048_b0.25.ipynb)
 
 ### Pix2Pix
 
