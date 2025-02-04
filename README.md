@@ -1,6 +1,7 @@
 # SAR2RGB
 
 SAR2RGB is a Generative AI project to generate RGB images from Synthetic Aperture Radar (SAR) images.
+Dataset: [2025 IEEE GRSS Data Fusion Contest Track 1](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest)
 
 ## Some Examples
 
