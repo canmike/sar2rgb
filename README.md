@@ -12,8 +12,7 @@ Dataset: [2025 IEEE GRSS Data Fusion Contest Track 1](https://www.grss-ieee.org/
 
 ![cVAE_2](https://github.com/canmike/sar2rgb/blob/main/figures/cVAE_2.png)
 
-Paper: [Learning Structured Output Representation using Deep Conditional Generative Models
-](https://papers.nips.cc/paper_files/paper/2015/hash/8d55a249e6baa5c06772297520da2051-Abstract.html)
+Paper: [Learning Structured Output Representation using Deep Conditional Generative Models](https://papers.nips.cc/paper_files/paper/2015/hash/8d55a249e6baa5c06772297520da2051-Abstract.html)
 
 Notebook: [cVAE_v2_img128_ldim2048_b0.25.ipynb](https://github.com/canmike/sar2rgb/blob/main/notebooks/cVAE_v2_img128_ldim2048_b0.25.ipynb)
 
