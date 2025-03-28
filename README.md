@@ -1,8 +1,18 @@
 # SAR2RGB
 
-SAR2RGB is a Generative AI project to generate RGB images from Synthetic Aperture Radar (SAR) images.
+SAR2RGB is a Generative AI project to generate RGB images from Synthetic Aperture Radar (SAR) images. The best results were achieved using Diffusion with ControlNet
 
 Dataset: [2025 IEEE GRSS Data Fusion Contest Track 1](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest)
+
+## ControlNet + Stable Diffusion v1-5
+
+![controlnet_1](https://github.com/canmike/sar2rgb/blob/main/figures/controlnet_1.png)
+
+![controlnet_2](https://github.com/canmike/sar2rgb/blob/main/figures/controlnet_2.png)
+
+Paper: [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+
+Notebook: [controlnet_diffusion_v5.ipynb](https://github.com/canmike/sar2rgb/blob/main/notebooks/controlnet_diffusion_v5.ipynb)
 
 ## Pix2Pix
 
